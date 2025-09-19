@@ -1,0 +1,5 @@
+{
+  "name": "AI Text-to-Image Generator",
+  "description": "A responsive web application that uses the Google Gemini API to generate images from text prompts. Users can select the number of images and view the results in a clean gallery.",
+  "requestFramePermissions": []
+}
